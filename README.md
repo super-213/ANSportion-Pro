@@ -1,3 +1,6 @@
+# AI 修改
+使用了kiro对此仓库进行了修改 使其能够在Mac上运行 原仓库请访问https://github.com/XXX-Stalker/ANSportion-Pro.git
+
 # ANSportion
 ![ANSportion.jpg](https://raw.gitcode.com/XXX_Stalker/ANSportion-Pro/attachment/uploads/bef178d9-6467-4565-a205-1226df06f9c6/ANSportion.jpg 'ANSportion.jpg')
 

@@ -1,0 +1,33 @@
+# ANSportion Mac 依赖库列表
+# 使用方法：pip3 install -r requirements_mac.txt
+
+# 核心网络库
+requests>=2.31.0
+urllib3>=2.0.0
+validators>=0.22.0
+
+# 进度显示
+tqdm>=4.66.0
+
+# 系统信息
+psutil>=5.9.0
+
+# 网络工具
+ipaddress>=1.0.23
+
+# 终端颜色
+colorama>=0.4.6
+
+# 加密库
+cryptography>=41.0.0
+
+# 图像处理
+Pillow>=10.0.0
+
+# ASCII 艺术字
+pyfiglet>=1.0.2
+
+# WiFi 管理（Mac 上功能受限，可选）
+# pywifi>=1.1.12
+
+# 注意：comtypes 是 Windows 专用库，Mac 不需要安装
